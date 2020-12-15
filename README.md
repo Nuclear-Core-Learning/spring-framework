@@ -32,3 +32,11 @@ Follow [@SpringCentral](https://twitter.com/springcentral), [@SpringFramework](h
 ## License
 
 The Spring Framework is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
+## Code compile command
+cd /spring-framework
+gradlew :spring-oxm:compileTestJava
+
+## Import code to IDE 
+Eclipse : see import-into-eclipse.md
+Idea : see import-into-idea.md
